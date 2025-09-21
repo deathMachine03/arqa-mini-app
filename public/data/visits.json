@@ -1,0 +1,25 @@
+{
+  "visits": [
+    { "date": "2025-08-01", "channel": "Web", "city": "Алматы", "count": 120 },
+    { "date": "2025-08-02", "channel": "Web", "city": "Алматы", "count": 95 },
+    { "date": "2025-08-03", "channel": "Web", "city": "Алматы", "count": 130 },
+    { "date": "2025-08-04", "channel": "Web", "city": "Алматы", "count": 110 },
+    { "date": "2025-08-05", "channel": "Web", "city": "Алматы", "count": 140 },
+    { "date": "2025-08-06", "channel": "Web", "city": "Алматы", "count": 100 },
+    { "date": "2025-08-07", "channel": "Web", "city": "Алматы", "count": 90 },
+    { "date": "2025-08-08", "channel": "Web", "city": "Алматы", "count": 160 },
+
+    { "date": "2025-08-01", "channel": "Mobile", "city": "Астана", "count": 80 },
+    { "date": "2025-08-02", "channel": "Mobile", "city": "Астана", "count": 75 },
+    { "date": "2025-08-03", "channel": "Mobile", "city": "Астана", "count": 100 },
+    { "date": "2025-08-04", "channel": "Mobile", "city": "Астана", "count": 95 },
+    { "date": "2025-08-05", "channel": "Mobile", "city": "Астана", "count": 120 },
+    { "date": "2025-08-06", "channel": "Mobile", "city": "Астана", "count": 85 },
+    { "date": "2025-08-07", "channel": "Mobile", "city": "Астана", "count": 110 },
+    { "date": "2025-08-08", "channel": "Mobile", "city": "Астана", "count": 130 },
+
+    { "date": "2025-08-03", "channel": "Offline", "city": "Алматы", "count": 45 },
+    { "date": "2025-08-05", "channel": "Offline", "city": "Алматы", "count": 60 },
+    { "date": "2025-08-07", "channel": "Offline", "city": "Алматы", "count": 50 }
+  ]
+}
